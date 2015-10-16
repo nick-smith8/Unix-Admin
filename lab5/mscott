@@ -1,0 +1,1 @@
+mscott ALL=/sbin/shutdown 120,/sbin/shutdown -c
